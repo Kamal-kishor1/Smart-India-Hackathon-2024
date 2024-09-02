@@ -4,10 +4,6 @@ Create a Virtual Herbal Garden that provides an interactive, educational, and im
 
 ## Set-up 
 
-To download dependencies
-    
-    pip install requirements.txt
-
 To clone
 
     git clone https://github.com/Kamal-kishor1/Smart-India-Hackathon-2024.git  
